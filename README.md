@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repositorio de prueba.
+Mi primer repositorio.
 
 Autor: Jose Luis Somilleda
-Feche: 23 de sep
+Fecha: 23 de sep
